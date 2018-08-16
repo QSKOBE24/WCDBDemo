@@ -1,0 +1,18 @@
+PODS:
+  - WCDB (1.0.6):
+    - WCDB/sqlcipher (= 1.0.6)
+  - WCDB/sqlcipher (1.0.6)
+
+DEPENDENCIES:
+  - WCDB
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - WCDB
+
+SPEC CHECKSUMS:
+  WCDB: 4d2926bf695b2e00d785b50afd32c2dcc8cbbd98
+
+PODFILE CHECKSUM: a4bb8bc69d755ddd883644a476d6f32da333d2c8
+
+COCOAPODS: 1.5.3
